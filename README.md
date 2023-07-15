@@ -1,4 +1,4 @@
-### Hi there 👋
+Just coding
 
 <!--
 **elgiz20002000/elgiz20002000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
